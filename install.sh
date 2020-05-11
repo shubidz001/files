@@ -1,5 +1,3 @@
-apt-get update; apt-get upgrade -y; ap-get dist-upgrade -y
-apt-get install wget; && apt-get install unzip;
 wget https://raw.githubusercontent.com/shubidz001/files/shubidz001-patch-1/gcp.sh 
 wget https://raw.githubusercontent.com/shubidz001/files/shubidz001-patch-1/gcp1.sh
 wget https://raw.githubusercontent.com/shubidz001/files/shubidz001-patch-1/proftpd.sh
