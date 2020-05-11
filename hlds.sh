@@ -1,4 +1,3 @@
-#!/bin/bash
 cd /usr/local/gcp/installs/
 wget http://185.183.97.171/hlds/hlds.zip
 apt-get install unzip
