@@ -94,6 +94,9 @@ case "`lsb_release -is`" in
              echo "Done by shubidz."
              rm -rf gcp.sh
              rm -rf gcp1.sh
+             nano /etc/hosts
+             127.0.0.1 billing.gamecp.com billing1.gamecp.com billing2.gamecp.com
+             ip addres domain.dzhosting.al
      ;;
 esac
 
