@@ -1,4 +1,3 @@
-#!/bin/bash
 sudo apt-get install lib32gcc1 screen wget
 cd /usr/local/gcp/installs/
 wget http://185.183.97.171/hlds/rehlds.zip
