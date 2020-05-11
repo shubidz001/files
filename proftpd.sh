@@ -1,4 +1,3 @@
-#!/bin/bash
 cd /etc/proftpd
 rm -rf proftpd.conf
 wget https://raw.githubusercontent.com/shubidz001/files/shubidz001-patch-1/proftpd.conf
